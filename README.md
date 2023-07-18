@@ -39,6 +39,7 @@ Serão ministrados nessa ordem
         + I/O
         + North Bridge
         + South Bridge
+        + Chipset
         + Outras portas (ATA, USB, etc)
     + Overclocking (VRMs)
     + PCI e Barramento
